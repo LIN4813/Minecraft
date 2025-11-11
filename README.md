@@ -29,7 +29,7 @@ Minecraft 基岩版, 是一个更注重便捷性、可及性和社交性的版�
 # 点击👉[酱汁的网站](https://lin4813.github.io/Minecraft/) 
 - 我自己建于GitHub的MC网站主要是(数据包 网站 美图 MOD分享等)与自己的服务器内容!欢迎参观食用 ♡(>ᴗ•)
 
-## 下面是网络上较大的MC网站
+## 下面是网络上较大的MC网站 | 点击图片前往
 
 [![使用 EdgeOne Pages 部署](priture/www.mcmod.cn_.png)](https://www.mcmod.cn/) 
 
