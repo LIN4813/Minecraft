@@ -16,6 +16,8 @@ Yu Minecraft Launcher  启动器 通过BBSMC页面点击 https://bbsmc.net/softw
 
 LauncherX                启动器 通过BBSMC页面点击 https://bbsmc.net/software/launcherx 下载
 
+Xbox官方正版 [Minecraft我的世界](https://www.minecraft.net/zh-hans)页面点击https://www.xbox.com/zh-CN/games/store/minecraft-java-bedrock-edition-for-pc/9nxp44l49shj  下载 (支持正版 | 要钱!)
+
 Plain Craft Launcher (PCL) 启动器 通过[爱发电](https://aifadian.qingmo.net/)页面[龙腾猫跃](https://afdian.com/a/LTCat)共产主义大佬主页https://afdian.com/p/0164034c016c11ebafcb52540025c377 下载 (推荐)
 
 - 手机Android端
