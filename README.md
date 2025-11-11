@@ -66,7 +66,6 @@ Minecraft 基岩版, 是一个更注重便捷性、可及性和社交性的版�
 <img width="222" height="304" alt="收款码" src="priture/收款码.png" />
 
 # ✅ 反馈
-
 如有任何问题或建议，欢迎提交 issue 或 pull request。
 
 
