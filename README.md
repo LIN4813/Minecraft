@@ -29,4 +29,6 @@ Minecraft 基岩版, 是一个更注重便捷性、可及性和社交性的版�
 # 点击👉[酱汁的网站](https://lin4813.github.io/Minecraft/) 
 我自己建于GitHub的MC网站主要是(数据包 网站 美图 MOD分享等)与自己的服务器内容!欢迎参观食用 ♡(>ᴗ•)
 
+[![使用 EdgeOne Pages 部署](priture/www.mcmod.cn_.png)](https://www.mcmod.cn/) 
 
+MC百科 (mcmod.cn) 的目标是为玩家提供更好的环境进行MOD学习和研究，并接纳、培养更多硬核玩家。提供Minecraft(我的世界)MOD(模组)物品资料介绍、教程攻略与MOD下载，致力于提高玩家的游戏体验。
