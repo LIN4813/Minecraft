@@ -59,6 +59,6 @@ Minecraft 基岩版, 是一个更注重便捷性、可及性和社交性的版�
 
 <details>
 <summary> 🙏赞助 (Sponsors)</summary>
-<img width="240" height="100" alt="收款码" src="" />
+<img width="222" height="304" alt="收款码" src="priture/收款码.png" />
 
 
