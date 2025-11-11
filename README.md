@@ -24,6 +24,8 @@ Foldcraft launcher简称FCL启动器，作为一款针对于移动端设备运�
 
 Minecraft 基岩版, 是一个更注重便捷性、可及性和社交性的版本支持官方Xbox登录其[苦力怕论坛](https://klpbbs.com/)下载https://mcapks.net/ (稳定,简单)
 
+我的世界网易版[链接](https://mc.163.com/) , 中国网易游戏代理 是一款在便捷性和合规性上做得非常出色，但在游戏自由度和核心体验上做出了巨大妥协的“特供版”Minecraft。它极大地降低了中国玩家的入门门槛，但同时也为资深玩家和社区创作者戴上了枷锁。网易版社区的深度讨论、顶级技术力作品和极度硬核的模组相对较少,性能与优化大问题! (难评)
+
 ## 🔗 MC网站目录
 
 # 点击👉[酱汁的网站](https://lin4813.github.io/Minecraft/) 
@@ -33,8 +35,16 @@ Minecraft 基岩版, 是一个更注重便捷性、可及性和社交性的版�
 
 [![使用 EdgeOne Pages 部署](priture/www.mcmod.cn_.png)](https://www.mcmod.cn/) 
 
-MC百科 (mcmod.cn) 的目标是为玩家提供更好的环境进行MOD学习和研究，并接纳、培养更多硬核玩家。提供Minecraft(我的世界)MOD(模组)物品资料介绍、教程攻略与MOD下载，致力于提高玩家的游戏体验。
+1. MC百科 (mcmod.cn) 的目标是为玩家提供更好的环境进行MOD学习和研究，并接纳、培养更多硬核玩家。提供Minecraft(我的世界)MOD(模组)物品资料介绍、教程攻略与MOD下载，致力于提高玩家的游戏体验。
 
 [![使用 EdgeOne Pages 部署](priture/sodamc.png)](https://sodamc.com/) 
 
-sodamc是玩家自发组织搭建的网站,管理有序MOD和地图,服务器等居多,分享MInecraft事件趣闻接纳、培养更多硬核玩家同时也有资料介绍、教程攻略与MOD下载。
+2. odamc是玩家自发组织搭建的网站,管理有序MOD和地图,服务器等居多,分享MInecraft事件趣闻接纳、培养更多硬核玩家同时也有资料介绍、教程攻略与MOD下载。
+
+[![使用 EdgeOne Pages 部署](priture/bbsmc.png)](https://bbsmc.net/)
+
+3. BBSMC网站是地图、模组、材质包、皮肤等玩家自制资源的聚集地。玩家可以在这里找到稀有资源，或者发布自己的创作，获得来自社区的反馈和认可,是目前较大的下载站。
+   
+[![使用 EdgeOne Pages 部署](priture/klpbbs.png)](https://klpbbs.com/)
+
+4. 苦力怕论坛  是当前中文Minecraft社区中资源最丰富、生态最完善、用户活跃度最高的综合性论坛之一，堪称“国内的MCBBS”。 它在玩家、开发者和管理者之间建立了一个非常良性的循环。虽然高质量内容很多，但由于用户基数大，水贴、低质量提问和重复资源也同样存在。用户需要具备一定的辨别能力，并善用搜索功能。这里是宣传和招募的必驻之地。
