@@ -8,11 +8,14 @@ Plain Craft Launcher (PCL) 启动器 通过[BBSMC](https://bbsmc.net/)页面点�
 
 PCL 社区版（PCL CE）       启动器 通过[BBSMC](https://bbsmc.net/)页面点击 https://bbsmc.net/software/pcl-ce 下载 (推荐)
 
+Plain Craft Launcher (PCL) 启动器 通过[爱发电](https://aifadian.qingmo.net/)页面[龙腾猫跃](https://afdian.com/a/LTCat)共产主义大佬主页https://afdian.com/p/0164034c016c11ebafcb52540025c377 下载
+
 Hello Minecraft! Launcher (hmcl)启动器 通过[BBSMC](https://bbsmc.net/)页面点击 https://bbsmc.net/software/hmcl 下载 (推荐)
 
-LauncherX     启动器 通过[BBSMC](https://bbsmc.net/)页面点击 https://bbsmc.net/software/launcherx 下载
+X Minecraft Launcher    启动器 通过[BBSMC](https://bbsmc.net/)页面点击 https://bbsmc.net/software/x-minecraft-launcher 下载
 
-X Minecraft Launcher启动器 通过[BBSMC](https://bbsmc.net/)页面点击 https://bbsmc.net/software/x-minecraft-launcher 下载
+Yu Minecraft Launcher  启动器 通过[BBSMC](https://bbsmc.net/)页面点击 https://bbsmc.net/software/ymcl 下载
 
-Yu Minecraft Launcher启动器 通过[BBSMC](https://bbsmc.net/)页面点击 https://bbsmc.net/software/ymcl 下载
+LauncherX                启动器 通过[BBSMC](https://bbsmc.net/)页面点击 https://bbsmc.net/software/launcherx 下载
+
 - 手机Android端
