@@ -54,3 +54,10 @@ Minecraft 基岩版, 是一个更注重便捷性、可及性和社交性的版�
 [![使用 EdgeOne Pages 部署](priture/modrinth.png)](https://modrinth.com/)
 
 5. modrinth  评价Minecraft开始的地方 Modrinth是现代、安全、高效的 Minecraft 模组发布平台，被誉为模组领域的“未来之星”，是继 CurseForge 之后最具革命性和开发者友好型的平台。 它代表了 Minecraft 模组分发的新方向和更高标准。开发团队非常活跃，不断根据社区反馈添加新功能和优化体验,它代表了 Minecraft 模组生态的未来发展方向，是当前环境下高度值得推荐和赞扬的宝藏平台!
+
+<details>
+<summary>使用者 Q&A</summary>
+
+#### Q: 为什么少数番剧中有广告？
+
+A: 本项目未插入任何广告。广告来自视频源, 请不要相信广告中的任何内容, 并尽量选择没有广告的视频源观看。
