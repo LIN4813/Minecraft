@@ -34,3 +34,7 @@ Minecraft 基岩版, 是一个更注重便捷性、可及性和社交性的版�
 [![使用 EdgeOne Pages 部署](priture/www.mcmod.cn_.png)](https://www.mcmod.cn/) 
 
 MC百科 (mcmod.cn) 的目标是为玩家提供更好的环境进行MOD学习和研究，并接纳、培养更多硬核玩家。提供Minecraft(我的世界)MOD(模组)物品资料介绍、教程攻略与MOD下载，致力于提高玩家的游戏体验。
+
+[![使用 EdgeOne Pages 部署](priture/sodamc.png)](https://sodamc.com/) 
+
+sodamc是玩家自发组织搭建的网站,管理有序MOD和地图,服务器等居多,分享MInecraft事件趣闻接纳、培养更多硬核玩家同时也有资料介绍、教程攻略与MOD下载。
