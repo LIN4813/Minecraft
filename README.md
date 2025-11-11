@@ -50,3 +50,7 @@ Minecraft 基岩版, 是一个更注重便捷性、可及性和社交性的版�
 [![使用 EdgeOne Pages 部署](priture/klpbbs.png)](https://klpbbs.com/)
 
 4. 苦力怕论坛  是当前中文Minecraft社区中资源最丰富、生态最完善、用户活跃度最高的综合性论坛之一，堪称“国内的MCBBS”。 它在玩家、开发者和管理者之间建立了一个非常良性的循环。虽然高质量内容很多，但由于用户基数大，水贴、低质量提问和重复资源也同样存在。用户需要具备一定的辨别能力，并善用搜索功能。这里是宣传和招募的必驻之地。
+
+[![使用 EdgeOne Pages 部署](priture/klpbbs.png)](https://klpbbs.com/)
+
+5. modrinth  评价Minecraft开始的地方 Modrinth是现代、安全、高效的 Minecraft 模组发布平台，被誉为模组领域的“未来之星”，是继 CurseForge 之后最具革命性和开发者友好型的平台。 它代表了 Minecraft 模组分发的新方向和更高标准。开发团队非常活跃，不断根据社区反馈添加新功能和优化体验,它代表了 Minecraft 模组生态的未来发展方向，是当前环境下高度值得推荐和赞扬的宝藏平台!
