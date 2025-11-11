@@ -20,6 +20,6 @@ Plain Craft Launcher (PCL) 启动器 通过[爱发电](https://aifadian.qingmo.n
 
 - 手机Android端
 
-Foldcraft launcher简称FCL启动器，作为一款针对于移动端设备运行Minecraft Java 版的工具其下载网站 https://foldcraftlauncher.cn (可玩性高,推荐)
+Foldcraft launcher简称FCL启动器，作为一款针对于移动端设备运行Minecraft Java 版的工具其下载网站 https://foldcraftlauncher.cn (功能可玩性高,推荐)
 
-Minecraft 基岩版, 是一个更注重便捷性、可及性和社交性的版本支持官方Xbox登录其[苦力怕论坛](https://klpbbs.com/)下载https://mcapks.net/
+Minecraft 基岩版, 是一个更注重便捷性、可及性和社交性的版本支持官方Xbox登录其[苦力怕论坛](https://klpbbs.com/)下载https://mcapks.net/ (稳定,简单)
