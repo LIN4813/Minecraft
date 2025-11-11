@@ -25,3 +25,6 @@ Foldcraft launcher简称FCL启动器，作为一款针对于移动端设备运�
 Minecraft 基岩版, 是一个更注重便捷性、可及性和社交性的版本支持官方Xbox登录其[苦力怕论坛](https://klpbbs.com/)下载https://mcapks.net/ (稳定,简单)
 
 ## 🔗 MC网站目录
+
+# [酱汁的网站](https://lin4813.github.io/Minecraft/) 
+我自己建于GitHub的MC网站主要是(数据包 网站 美图 MOD分享等)与自己的服务器内容!欢迎参观食用🤗😊
