@@ -61,12 +61,14 @@ Minecraft 基岩版, 是一个更注重便捷性、可及性和社交性的版�
 
 如果您觉得这个项目对您有帮助，欢迎给我们一个 Star！您的支持是我们持续改进的动力。
 
+<details>
+<summary> 🙏赞助 (Sponsors)</summary>
+<img width="222" height="304" alt="收款码" src="priture/收款码.png" />
+
 # ✅ 反馈
 
 如有任何问题或建议，欢迎提交 issue 或 pull request。
 
-<details>
-<summary> 🙏赞助 (Sponsors)</summary>
-<img width="222" height="304" alt="收款码" src="priture/收款码.png" />
+
 
 
