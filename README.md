@@ -37,11 +37,11 @@ Minecraft 基岩版, 是一个更注重便捷性、可及性和社交性的版�
 
 ## 下面是网络上较大的MC网站 | 点击图片前往
 
-[![使用 EdgeOne Pages 部署](priture/www.mcmod.cn_.png)](https://www.mcmod.cn/) 
+[![右键刷新](priture/www.mcmod.cn_.png)](https://www.mcmod.cn/) 
 
 1. MC百科 (mcmod.cn) 的目标是为玩家提供更好的环境进行MOD学习和研究，并接纳、培养更多硬核玩家。提供Minecraft(我的世界)MOD(模组)物品资料介绍、教程攻略与MOD下载，致力于提高玩家的游戏体验。
 
-[![使用 EdgeOne Pages 部署](priture/sodamc.png)](https://sodamc.com/) 
+[![直接点击前往](priture/sodamc.png)](https://sodamc.com/) 
 
 2. odamc是玩家自发组织搭建的网站,管理有序MOD和地图,服务器等居多,分享MInecraft事件趣闻接纳、培养更多硬核玩家同时也有资料介绍、教程攻略与MOD下载。
 
@@ -49,7 +49,7 @@ Minecraft 基岩版, 是一个更注重便捷性、可及性和社交性的版�
 
 3. BBSMC网站是地图、模组、材质包、皮肤等玩家自制资源的聚集地。玩家可以在这里找到稀有资源，或者发布自己的创作，获得来自社区的反馈和认可,是目前较大的下载站。
    
-[![使用 EdgeOne Pages 部署](priture/klpbbs.png)](https://klpbbs.com/)
+[!直接点击前往](priture/klpbbs.png)](https://klpbbs.com/)
 
 4. 苦力怕论坛  是当前中文Minecraft社区中资源最丰富、生态最完善、用户活跃度最高的综合性论坛之一，堪称“国内的MCBBS”。 它在玩家、开发者和管理者之间建立了一个非常良性的循环。虽然高质量内容很多，但由于用户基数大，水贴、低质量提问和重复资源也同样存在。用户需要具备一定的辨别能力，并善用搜索功能。这里是宣传和招募的必驻之地。
 
