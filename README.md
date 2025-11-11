@@ -59,7 +59,7 @@ Minecraft 基岩版, 是一个更注重便捷性、可及性和社交性的版�
 
 ## 🖼️ 截图
 
-<img width="504" height="501" alt="ocjDNBbDGfQAEqjHlhAsIveDaGA4ALeOnABqEX" src="https://github.com/user-attachments/assets/228cc9ea-89da-4730-94c2-b9e0f0405ee7" />
+<img width="250" height="250" alt="ocjDNBbDGfQAEqjHlhAsIveDaGA4ALeOnABqEX" src="https://github.com/user-attachments/assets/228cc9ea-89da-4730-94c2-b9e0f0405ee7" />
 
 # ⭐ 支持项目
 
